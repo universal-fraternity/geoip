@@ -1,0 +1,1000 @@
+2001:5b0:4cca:800::	2001:5b0:4cca:bff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cca:c00::	2001:5b0:4ccb:21ff:ffff:ffff:ffff:ffff	64	美国	Tennessee	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccb:2200::	2001:5b0:4ccb:2bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccb:2c00::	2001:5b0:4ccb:ffff:ffff:ffff:ffff:ffff	64	美国	Tennessee	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccc::	2001:5b0:4ccc:7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccc:800::	2001:5b0:4ccc:fff:ffff:ffff:ffff:ffff	64	美国	Montana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccc:1000::	2001:5b0:4ccc:1fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccc:2000::	2001:5b0:4ccc:4fff:ffff:ffff:ffff:ffff	64	美国	Montana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccc:5000::	2001:5b0:4ccc:57ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccc:5800::	2001:5b0:4ccc:7fff:ffff:ffff:ffff:ffff	64	美国	Montana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccc:8000::	2001:5b0:4ccc:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccd::	2001:5b0:4ccd:ffff:ffff:ffff:ffff:ffff	64	美国	New Mexico	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cce::	2001:5b0:4cce:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ccf::	2001:5b0:4ccf:ffff:ffff:ffff:ffff:ffff	64	美国	Texas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd0::	2001:5b0:4cd0:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd1::	2001:5b0:4cd1:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd2::	2001:5b0:4cd2:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3::	2001:5b0:4cd3:dff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:e00::	2001:5b0:4cd3:eff:ffff:ffff:ffff:ffff	64	美国	Delaware	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:f00::	2001:5b0:4cd3:fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:1000::	2001:5b0:4cd3:11ff:ffff:ffff:ffff:ffff	64	美国	Delaware	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:1200::	2001:5b0:4cd3:13ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:1400::	2001:5b0:4cd3:15ff:ffff:ffff:ffff:ffff	64	美国	Delaware	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:1600::	2001:5b0:4cd3:17ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:1800::	2001:5b0:4cd3:1bff:ffff:ffff:ffff:ffff	64	美国	Delaware	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:1c00::	2001:5b0:4cd3:1fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:2000::	2001:5b0:4cd3:7fff:ffff:ffff:ffff:ffff	64	美国	Delaware	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd3:8000::	2001:5b0:4cd5:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd6::	2001:5b0:4cd6:ffff:ffff:ffff:ffff:ffff	64	美国	Nebraska	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd7::	2001:5b0:4cd7:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4cd8::	2001:5b0:4dbf:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0::	2001:5b0:4dc0:bfff:ffff:ffff:ffff:ffff	64	美国	Wisconsin	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0:c000::	2001:5b0:4dc0:c3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0:c400::	2001:5b0:4dc0:c5ff:ffff:ffff:ffff:ffff	64	美国	Wisconsin	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0:c600::	2001:5b0:4dc0:c7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0:c800::	2001:5b0:4dc0:cfff:ffff:ffff:ffff:ffff	64	美国	Wisconsin	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0:d000::	2001:5b0:4dc0:d3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0:d400::	2001:5b0:4dc0:dbff:ffff:ffff:ffff:ffff	64	美国	Wisconsin	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0:dc00::	2001:5b0:4dc0:dfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc0:e000::	2001:5b0:4dc0:ffff:ffff:ffff:ffff:ffff	64	美国	Wisconsin	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc1::	2001:5b0:4dc1:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc2::	2001:5b0:4dc2:2fff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc2:3000::	2001:5b0:4dc2:32ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc2:3300::	2001:5b0:4dc2:bbff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc2:bc00::	2001:5b0:4dc2:bdff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc2:be00::	2001:5b0:4dc2:ffff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3::	2001:5b0:4dc3:7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3:800::	2001:5b0:4dc3:fff:ffff:ffff:ffff:ffff	64	美国	Kansas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3:1000::	2001:5b0:4dc3:1fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3:2000::	2001:5b0:4dc3:21ff:ffff:ffff:ffff:ffff	64	美国	Kansas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3:2200::	2001:5b0:4dc3:22ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3:2300::	2001:5b0:4dc3:27ff:ffff:ffff:ffff:ffff	64	美国	Kansas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3:2800::	2001:5b0:4dc3:2bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3:2c00::	2001:5b0:4dc3:7fff:ffff:ffff:ffff:ffff	64	美国	Kansas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc3:8000::	2001:5b0:4dc3:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc4::	2001:5b0:4dc4:ffff:ffff:ffff:ffff:ffff	64	美国	New Mexico	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc5::	2001:5b0:4dc5:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc6::	2001:5b0:4dc6:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7::	2001:5b0:4dc7:43ff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7:4400::	2001:5b0:4dc7:47ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7:4800::	2001:5b0:4dc7:4bff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7:4c00::	2001:5b0:4dc7:4fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7:5000::	2001:5b0:4dc7:7bff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7:7c00::	2001:5b0:4dc7:7fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7:8000::	2001:5b0:4dc7:8fff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7:9000::	2001:5b0:4dc7:97ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc7:9800::	2001:5b0:4dc7:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dc8::	2001:5b0:4dc9:ffff:ffff:ffff:ffff:ffff	64	美国	Texas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dca::	2001:5b0:4dcf:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd0::	2001:5b0:4dd0:ffff:ffff:ffff:ffff:ffff	64	美国	Texas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd1::	2001:5b0:4dd1:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd2::	2001:5b0:4dd3:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd4::	2001:5b0:4dd4:c7ff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd4:c800::	2001:5b0:4dd4:cbff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd4:cc00::	2001:5b0:4dd4:d7ff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd4:d800::	2001:5b0:4dd4:e3ff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd4:e400::	2001:5b0:4dd4:e9ff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd4:ea00::	2001:5b0:4dd4:ebff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd4:ec00::	2001:5b0:4dd4:ffff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd5::	2001:5b0:4dd5:4fff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd5:5000::	2001:5b0:4dd5:53ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd5:5400::	2001:5b0:4dd5:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd6::	2001:5b0:4dd6:ffff:ffff:ffff:ffff:ffff	64	美国	Texas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd7::	2001:5b0:4dd7:83ff:ffff:ffff:ffff:ffff	64	美国	Kansas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd7:8400::	2001:5b0:4dd7:85ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd7:8600::	2001:5b0:4dd7:cfff:ffff:ffff:ffff:ffff	64	美国	Kansas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd7:d000::	2001:5b0:4dd7:d3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd7:d400::	2001:5b0:4dd7:ffff:ffff:ffff:ffff:ffff	64	美国	Kansas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dd8::	2001:5b0:4dd9:ffff:ffff:ffff:ffff:ffff	64	美国	Texas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4dda::	2001:5b0:4dda:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ddb::	2001:5b0:4ddb:ffff:ffff:ffff:ffff:ffff	64	美国	Texas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ddc::	2001:5b0:4ebf:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec0::	2001:5b0:4ec1:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec2::	2001:5b0:4ec3:7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:800::	2001:5b0:4ec3:107f:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:1080::	2001:5b0:4ec3:10ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:1100::	2001:5b0:4ec3:11ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:1200::	2001:5b0:4ec3:12ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:1300::	2001:5b0:4ec3:1bff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:1c00::	2001:5b0:4ec3:1dff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:1e00::	2001:5b0:4ec3:27ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:2800::	2001:5b0:4ec3:2bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:2c00::	2001:5b0:4ec3:33ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:3400::	2001:5b0:4ec3:3bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:3c00::	2001:5b0:4ec3:5fff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:6000::	2001:5b0:4ec3:bfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:c000::	2001:5b0:4ec3:e1ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:e200::	2001:5b0:4ec3:e7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:e800::	2001:5b0:4ec3:ecff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:ed00::	2001:5b0:4ec3:efff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec3:f000::	2001:5b0:4ec3:ffff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4::	2001:5b0:4ec4:3ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:400::	2001:5b0:4ec4:fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:1000::	2001:5b0:4ec4:a07f:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:a080::	2001:5b0:4ec4:a0ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:a100::	2001:5b0:4ec4:a1ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:a200::	2001:5b0:4ec4:a3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:a400::	2001:5b0:4ec4:b7ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:b800::	2001:5b0:4ec4:b9ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:ba00::	2001:5b0:4ec4:cfff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:d000::	2001:5b0:4ec4:d3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:d400::	2001:5b0:4ec4:e7ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:e800::	2001:5b0:4ec4:ebff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec4:ec00::	2001:5b0:4ec4:ffff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec5::	2001:5b0:4ec5:3ff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec5:400::	2001:5b0:4ec5:bff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec5:c00::	2001:5b0:4ec5:fff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec5:1000::	2001:5b0:4ec5:93ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec5:9400::	2001:5b0:4ec5:97ff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec5:9800::	2001:5b0:4ec5:ffff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec6::	2001:5b0:4ec6:b9ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec6:ba00::	2001:5b0:4ec6:bbff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec6:bc00::	2001:5b0:4ec6:bdff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec6:be00::	2001:5b0:4ec6:bfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec6:c000::	2001:5b0:4ec6:efff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec6:f000::	2001:5b0:4ec6:f3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec6:f400::	2001:5b0:4ec7:13ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec7:1400::	2001:5b0:4ec7:17ff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec7:1800::	2001:5b0:4ec7:f9ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec7:fa00::	2001:5b0:4ec7:faff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec7:fb00::	2001:5b0:4ec7:fbff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec7:fc00::	2001:5b0:4ec7:fdff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec7:fe00::	2001:5b0:4ec8:23ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec8:2400::	2001:5b0:4ec8:27ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec8:2800::	2001:5b0:4ec8:33ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec8:3400::	2001:5b0:4ec8:37ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec8:3800::	2001:5b0:4ec8:6fff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec8:7000::	2001:5b0:4ec8:73ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec8:7400::	2001:5b0:4ec8:a3ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec8:a400::	2001:5b0:4ec8:a7ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec8:a800::	2001:5b0:4ec8:ffff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9::	2001:5b0:4ec9:7fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:8000::	2001:5b0:4ec9:a9ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:aa00::	2001:5b0:4ec9:abff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:ac00::	2001:5b0:4ec9:bfff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:c000::	2001:5b0:4ec9:c7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:c800::	2001:5b0:4ec9:cbff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:cc00::	2001:5b0:4ec9:cfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:d000::	2001:5b0:4ec9:dcff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:dd00::	2001:5b0:4ec9:e1ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:e200::	2001:5b0:4ec9:e3ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:e400::	2001:5b0:4ec9:e7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:e800::	2001:5b0:4ec9:f3ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:f400::	2001:5b0:4ec9:f7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ec9:f800::	2001:5b0:4ec9:ffff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eca::	2001:5b0:4ecb:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ecc::	2001:5b0:4ecc:71ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ecc:7200::	2001:5b0:4ecc:77ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ecc:7800::	2001:5b0:4ecc:ffff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ecd::	2001:5b0:4ecd:fbff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ecd:fc00::	2001:5b0:4ece:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ecf::	2001:5b0:4ecf:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed0::	2001:5b0:4ed0:a7ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed0:a800::	2001:5b0:4ed0:afff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed0:b000::	2001:5b0:4ed1:1fff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed1:2000::	2001:5b0:4ed1:27ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed1:2800::	2001:5b0:4ed1:57ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed1:5800::	2001:5b0:4ed1:5bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed1:5c00::	2001:5b0:4ed2:3fff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed2:4000::	2001:5b0:4ed2:43ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed2:4400::	2001:5b0:4ed2:47ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed2:4800::	2001:5b0:4ed2:4bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed2:4c00::	2001:5b0:4ed2:58ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed2:5900::	2001:5b0:4ed2:5bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed2:5c00::	2001:5b0:4ed2:97ff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed2:9800::	2001:5b0:4ed2:9bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed2:9c00::	2001:5b0:4ed2:ffff:ffff:ffff:ffff:ffff	64	美国	Missouri	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed3::	2001:5b0:4ed3:9fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed3:a000::	2001:5b0:4ed3:afff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed3:b000::	2001:5b0:4ed3:b3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed3:b400::	2001:5b0:4ed3:bfff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed3:c000::	2001:5b0:4ed3:dfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed3:e000::	2001:5b0:4ed3:ffff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed4::	2001:5b0:4ed4:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5::	2001:5b0:4ed5:7ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:800::	2001:5b0:4ed5:bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:c00::	2001:5b0:4ed5:47ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:4800::	2001:5b0:4ed5:4fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:5000::	2001:5b0:4ed5:55ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:5600::	2001:5b0:4ed5:56ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:5700::	2001:5b0:4ed5:57ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:5800::	2001:5b0:4ed5:67ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:6800::	2001:5b0:4ed5:6fff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:7000::	2001:5b0:4ed5:9fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:a000::	2001:5b0:4ed5:bfff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed5:c000::	2001:5b0:4ed5:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6::	2001:5b0:4ed6:43ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:4400::	2001:5b0:4ed6:45ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:4600::	2001:5b0:4ed6:47ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:4800::	2001:5b0:4ed6:4bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:4c00::	2001:5b0:4ed6:7fff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:8000::	2001:5b0:4ed6:87ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:8800::	2001:5b0:4ed6:97ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:9800::	2001:5b0:4ed6:98ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:9900::	2001:5b0:4ed6:99ff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:9a00::	2001:5b0:4ed6:a3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed6:a400::	2001:5b0:4ed6:ffff:ffff:ffff:ffff:ffff	64	美国	Virginia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ed7::	2001:5b0:4eda:8ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:900::	2001:5b0:4eda:e0ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:e100::	2001:5b0:4eda:e17f:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:e180::	2001:5b0:4eda:e1ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:e200::	2001:5b0:4eda:e3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:e400::	2001:5b0:4eda:e7ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:e800::	2001:5b0:4eda:efff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:f000::	2001:5b0:4eda:f7ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:f800::	2001:5b0:4eda:fbff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4eda:fc00::	2001:5b0:4eda:ffff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edb::	2001:5b0:4edb:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edc::	2001:5b0:4edc:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd::	2001:5b0:4edd:97ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:9800::	2001:5b0:4edd:9bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:9c00::	2001:5b0:4edd:9fff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:a000::	2001:5b0:4edd:a3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:a400::	2001:5b0:4edd:a7ff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:a800::	2001:5b0:4edd:a9ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:aa00::	2001:5b0:4edd:aaff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:ab00::	2001:5b0:4edd:abff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:ac00::	2001:5b0:4edd:afff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:b000::	2001:5b0:4edd:bfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4edd:c000::	2001:5b0:4edd:ffff:ffff:ffff:ffff:ffff	64	美国	Kentucky	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4ede::	2001:5b0:4fbf:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc0::	2001:5b0:4fc0:1fff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc0:2000::	2001:5b0:4fc0:20ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc0:2100::	2001:5b0:4fc0:87ff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc0:8800::	2001:5b0:4fc0:8cff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc0:8d00::	2001:5b0:4fc0:97ff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc0:9800::	2001:5b0:4fc0:9fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc0:a000::	2001:5b0:4fc2:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc3::	2001:5b0:4fc3:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc4::	2001:5b0:4fc4:a1ff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc4:a200::	2001:5b0:4fc4:a2ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc4:a300::	2001:5b0:4fc4:ffff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc5::	2001:5b0:4fc6:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc7::	2001:5b0:4fc7:37ff:ffff:ffff:ffff:ffff	64	美国	New Mexico	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc7:3800::	2001:5b0:4fc7:3bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc7:3c00::	2001:5b0:4fc7:ffff:ffff:ffff:ffff:ffff	64	美国	New Mexico	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fc8::	2001:5b0:4fc9:ffff:ffff:ffff:ffff:ffff	64	美国	Arizona	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fca::	2001:5b0:4fca:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fcb::	2001:5b0:4fcb:ffff:ffff:ffff:ffff:ffff	64	美国	Alaska	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fcc::	2001:5b0:4fcc:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fcd::	2001:5b0:4fcd:55ff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fcd:5600::	2001:5b0:4fcd:57ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fcd:5800::	2001:5b0:4fcd:ffff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fce::	2001:5b0:4fd0:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fd1::	2001:5b0:4fd1:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fd2::	2001:5b0:4fd2:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fd3::	2001:5b0:4fd3:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fd4::	2001:5b0:4fd4:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fd5::	2001:5b0:4fd5:ffff:ffff:ffff:ffff:ffff	64	美国	Idaho	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fd6::	2001:5b0:4fd6:ffff:ffff:ffff:ffff:ffff	64	美国	Colorado	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fd7::	2001:5b0:4fd8:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fd9::	2001:5b0:4fd9:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fda::	2001:5b0:4fda:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fdb::	2001:5b0:4fdb:ffff:ffff:ffff:ffff:ffff	64	美国	Alaska	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fdc::	2001:5b0:4fde:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fdf::	2001:5b0:4fdf:ffff:ffff:ffff:ffff:ffff	64	美国	New Mexico	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:4fe0::	2001:5b0:4fff:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:5000::	2001:5b0:50c0:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c1::	2001:5b0:50c1:ffff:ffff:ffff:ffff:ffff	64	美国	Maine	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c2::	2001:5b0:50c2:ffff:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c3::	2001:5b0:50c3:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c4::	2001:5b0:50c4:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c5::	2001:5b0:50c5:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c6::	2001:5b0:50c6:ffff:ffff:ffff:ffff:ffff	64	美国	Arizona	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c7::	2001:5b0:50c7:ffff:ffff:ffff:ffff:ffff	64	美国	Texas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c8::	2001:5b0:50c8:43ff:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c8:4400::	2001:5b0:50c8:45ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c8:4600::	2001:5b0:50c9:6dff:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c9:6e00::	2001:5b0:50c9:6fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c9:7000::	2001:5b0:50c9:ce7f:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c9:ce80::	2001:5b0:50c9:ceff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50c9:cf00::	2001:5b0:50c9:ffff:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50ca::	2001:5b0:50cc:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50cd::	2001:5b0:50cd:dfff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50cd:e000::	2001:5b0:50cd:e0ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50cd:e100::	2001:5b0:50cd:e1ff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50cd:e200::	2001:5b0:50cd:e3ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50cd:e400::	2001:5b0:50cd:f7ff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50cd:f800::	2001:5b0:50cd:fbff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50cd:fc00::	2001:5b0:50cd:ffff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50ce::	2001:5b0:50ce:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50cf::	2001:5b0:50cf:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d0::	2001:5b0:50d0:dfff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d0:e000::	2001:5b0:50d0:efff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d0:f000::	2001:5b0:50d0:fbff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d0:fc00::	2001:5b0:50d0:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d1::	2001:5b0:50d1:7fff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d1:8000::	2001:5b0:50d1:bfff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d1:c000::	2001:5b0:50d1:dfff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d1:e000::	2001:5b0:50d1:ffff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d2::	2001:5b0:50d2:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d3::	2001:5b0:50d3:ffff:ffff:ffff:ffff:ffff	64	美国	Maine	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d4::	2001:5b0:50d4:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d5::	2001:5b0:50d6:ffff:ffff:ffff:ffff:ffff	64	美国	Arizona	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d7::	2001:5b0:50d8:7fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:8000::	2001:5b0:50d8:8fff:ffff:ffff:ffff:ffff	64	美国	Oregon	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:9000::	2001:5b0:50d8:93ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:9400::	2001:5b0:50d8:9bff:ffff:ffff:ffff:ffff	64	美国	Oregon	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:9c00::	2001:5b0:50d8:9fff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:a000::	2001:5b0:50d8:b3ff:ffff:ffff:ffff:ffff	64	美国	Oregon	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:b400::	2001:5b0:50d8:b7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:b800::	2001:5b0:50d8:cbff:ffff:ffff:ffff:ffff	64	美国	Oregon	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:cc00::	2001:5b0:50d8:ccff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:cd00::	2001:5b0:50d8:cfff:ffff:ffff:ffff:ffff	64	美国	Oregon	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:d000::	2001:5b0:50d8:d7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:d800::	2001:5b0:50d8:e7ff:ffff:ffff:ffff:ffff	64	美国	Oregon	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:e800::	2001:5b0:50d8:efff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:f000::	2001:5b0:50d8:f7ff:ffff:ffff:ffff:ffff	64	美国	Oregon	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:f800::	2001:5b0:50d8:fbff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d8:fc00::	2001:5b0:50d8:ffff:ffff:ffff:ffff:ffff	64	美国	Oregon	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50d9::	2001:5b0:50d9:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50da::	2001:5b0:50db:ffff:ffff:ffff:ffff:ffff	64	美国	Texas	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50dc::	2001:5b0:50dc:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50dd::	2001:5b0:50de:cbff:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50de:cc00::	2001:5b0:50de:cfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50de:d000::	2001:5b0:50de:fbff:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50de:fc00::	2001:5b0:50de:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50df::	2001:5b0:50e0:ffff:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50e1::	2001:5b0:50ec:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50ed::	2001:5b0:50ed:ffff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:50ee::	2001:5b0:51bf:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51c0::	2001:5b0:51c0:ffff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51c1::	2001:5b0:51c2:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51c3::	2001:5b0:51c3:ffff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51c4::	2001:5b0:51c7:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51c8::	2001:5b0:51c8:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51c9::	2001:5b0:51cb:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51cc::	2001:5b0:51cf:ffff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d0::	2001:5b0:51d0:bbff:ffff:ffff:ffff:ffff	64	美国	Georgia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d0:bc00::	2001:5b0:51d0:bfff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d0:c000::	2001:5b0:51d0:ffff:ffff:ffff:ffff:ffff	64	美国	Georgia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d1::	2001:5b0:51d1:95ff:ffff:ffff:ffff:ffff	64	美国	Utah	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d1:9600::	2001:5b0:51d1:97ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d1:9800::	2001:5b0:51d1:99ff:ffff:ffff:ffff:ffff	64	美国	Utah	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d1:9a00::	2001:5b0:51d1:9bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d1:9c00::	2001:5b0:51d2:c3ff:ffff:ffff:ffff:ffff	64	美国	Utah	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d2:c400::	2001:5b0:51d2:c7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d2:c800::	2001:5b0:51d2:cfff:ffff:ffff:ffff:ffff	64	美国	Utah	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d2:d000::	2001:5b0:51d2:d7ff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d2:d800::	2001:5b0:51d2:dbff:ffff:ffff:ffff:ffff	64	美国	Utah	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d2:dc00::	2001:5b0:51d2:dfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d2:e000::	2001:5b0:51d2:ffff:ffff:ffff:ffff:ffff	64	美国	Utah	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d3::	2001:5b0:51d3:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d4::	2001:5b0:51d4:97ff:ffff:ffff:ffff:ffff	64	美国	Oklahoma	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d4:9800::	2001:5b0:51d4:9bff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d4:9c00::	2001:5b0:51d6:b7ff:ffff:ffff:ffff:ffff	64	美国	Oklahoma	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d6:b800::	2001:5b0:51d6:bfff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d6:c000::	2001:5b0:51d7:ffff:ffff:ffff:ffff:ffff	64	美国	Oklahoma	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d8::	2001:5b0:51d8:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51d9::	2001:5b0:51d9:ffff:ffff:ffff:ffff:ffff	64	美国	Louisiana	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51da::	2001:5b0:51db:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51dc::	2001:5b0:51dc:ffff:ffff:ffff:ffff:ffff	64	美国	North Carolina	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51dd::	2001:5b0:51de:ffff:ffff:ffff:ffff:ffff	64	美国	Georgia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51df::	2001:5b0:51df:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51e0::	2001:5b0:51e1:dbff:ffff:ffff:ffff:ffff	64	美国	Georgia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51e1:dc00::	2001:5b0:51e1:ddff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51e1:de00::	2001:5b0:51e1:ffff:ffff:ffff:ffff:ffff	64	美国	Georgia	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:51e2::	2001:5b0:54ff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:5500::	2001:5b0:5aff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Involta	Involta	14230	NULL	NULL
+2001:5b0:5b00::	2001:5b0:5bff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:5c00::	2001:5b0:5eff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Involta	Involta	14230	NULL	NULL
+2001:5b0:5f00::	2001:5b0:5fff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:6000::	2001:5b0:64ff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Involta	Involta	14230	NULL	NULL
+2001:5b0:6500::	2001:5b0:66c3:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:66c4::	2001:5b0:66c4:ffff:ffff:ffff:ffff:ffff	64	美国	Illinois	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:66c5::	2001:5b0:66ff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:6700::	2001:5b0:68ff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Involta	Involta	14230	NULL	NULL
+2001:5b0:6900::	2001:5b0:69ff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:6a00::	2001:5b0:77bf:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Involta	Involta	14230	NULL	NULL
+2001:5b0:77c0::	2001:5b0:77ff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:7800::	2001:5b0:8bff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Involta	Involta	14230	NULL	NULL
+2001:5b0:8c00::	2001:5b0:8fff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b0:9000::	2001:5b0:fffe:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Involta	Involta	14230	NULL	NULL
+2001:5b0:ffff::	2001:5b0:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	Maryland	未知	未知	Hughes Network Systems	Hughes Network Systems	6621	NULL	NULL
+2001:5b1::	2001:5b7:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:5b8::	2001:5b8:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	Florida	未知	未知	未知	未知	13645	NULL	NULL
+2001:5b9::	2001:5c7:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:5c8::	2001:5c8:7fff:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	未知	未知	0	NULL	NULL
+2001:5c8:8000::	2001:5c8:8000:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	未知	未知	11648	NULL	NULL
+2001:5c8:8001::	2001:5c8:87ff:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	未知	未知	0	NULL	NULL
+2001:5c8:8800::	2001:5c8:8fff:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	未知	未知	11648	NULL	NULL
+2001:5c8:9000::	2001:5c8:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	California	未知	未知	未知	未知	0	NULL	NULL
+2001:5c9::	2001:5cf:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:5d0::	2001:5d0:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	New York	未知	未知	RR-RC-Neric Boces-Albany	RR-RC-Neric Boces-Albany	22693	NULL	NULL
+2001:5d1::	2001:5d7:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:5d8::	2001:5d8:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Adhost Internet LLC	Adhost Internet LLC	11274	NULL	NULL
+2001:5d9::	2001:5df:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:5e0::	2001:5e0:1f:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Northwest Open Access Network	Northwest Open Access Network	16713	NULL	NULL
+2001:5e0:20::	2001:5e0:20:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	未知	未知	20224	NULL	NULL
+2001:5e0:21::	2001:5e0:22:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Northwest Open Access Network	Northwest Open Access Network	16713	NULL	NULL
+2001:5e0:23::	2001:5e0:23:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	xyTel LLC	xyTel LLC	395394	NULL	NULL
+2001:5e0:24::	2001:5e0:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	Washington	未知	未知	Northwest Open Access Network	Northwest Open Access Network	16713	NULL	NULL
+2001:5e1::	2001:5e7:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:5e8::	2001:5e8:0:ffff:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	未知	未知	5050	NULL	NULL
+2001:5e8:1::	2001:5e8:1:ffff:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	PSC Campus	PSC Campus	1206	NULL	NULL
+2001:5e8:2::	2001:5e8:2:ffff:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	PSC Secondary	PSC Secondary	1207	NULL	NULL
+2001:5e8:3::	2001:5e8:feff:ffff:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	未知	未知	5050	NULL	NULL
+2001:5e8:ff00::	2001:5e8:ff00:ffff:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	PSC Secondary	PSC Secondary	1207	NULL	NULL
+2001:5e8:ff01::	2001:5e8:ffff:0:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	未知	未知	5050	NULL	NULL
+2001:5e8:ffff:1::	2001:5e8:ffff:1:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	PSC Campus	PSC Campus	1206	NULL	NULL
+2001:5e8:ffff:2::	2001:5e8:ffff:2:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	未知	未知	5050	NULL	NULL
+2001:5e8:ffff:3::	2001:5e8:ffff:3:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	PSC Secondary	PSC Secondary	1207	NULL	NULL
+2001:5e8:ffff:4::	2001:5e8:ffff:4:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	PSC Campus	PSC Campus	1206	NULL	NULL
+2001:5e8:ffff:5::	2001:5e8:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	Pennsylvania	未知	未知	未知	未知	5050	NULL	NULL
+2001:5e9::	2001:5ef:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:5f0::	2001:5f0:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	Wyoming	未知	未知	未知	未知	0	NULL	NULL
+2001:5f1::	2001:5f7:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:5f8::	2001:5f8:7d02:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	Aureon Network Services	Aureon Network Services	5056	NULL	NULL
+2001:5f8:7d03::	2001:5f8:7d03:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	OrgName:        South Slope Cooperative Telephone Company	OrgName:        South Slope Cooperative Telephone Company	30325	NULL	NULL
+2001:5f8:7d04::	2001:5f8:7f05:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	Aureon Network Services	Aureon Network Services	5056	NULL	NULL
+2001:5f8:7f06::	2001:5f8:7f06:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	MNT-FCL-70 autnum	MNT-FCL-70 autnum	18883	NULL	NULL
+2001:5f8:7f07::	2001:5f8:7f0a:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	Aureon Network Services	Aureon Network Services	5056	NULL	NULL
+2001:5f8:7f0b::	2001:5f8:7f0b:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	MNT-FCL-70 autnum	MNT-FCL-70 autnum	18883	NULL	NULL
+2001:5f8:7f0c::	2001:5f8:7f0c:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	Aureon Network Services	Aureon Network Services	5056	NULL	NULL
+2001:5f8:7f0d::	2001:5f8:7f0d:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	未知	未知	399693	NULL	NULL
+2001:5f8:7f0e::	2001:5f8:7fff:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	Aureon Network Services	Aureon Network Services	5056	NULL	NULL
+2001:5f8:8000::	2001:5f8:83ff:ffff:ffff:ffff:ffff:ffff	64	美国	Illinois	未知	未知	Aureon Network Services	Aureon Network Services	5056	NULL	NULL
+2001:5f8:8400::	2001:5f8:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	Iowa	未知	未知	Aureon Network Services	Aureon Network Services	5056	NULL	NULL
+2001:5f9::	2001:5ff:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:600::	2001:600:ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:100::	2001:600:1df:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1e0::	2001:600:1ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:200::	2001:600:5ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:600::	2001:600:600:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:601::	2001:600:fff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1000::	2001:600:1000:ffff:ffff:ffff:ffff:ffff	64	荷兰	未知	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1001::	2001:600:1001:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1002::	2001:600:1003:ffff:ffff:ffff:ffff:ffff	64	荷兰	未知	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1004::	2001:600:1004:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1005::	2001:600:1005:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1006::	2001:600:1006:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1007::	2001:600:1007:ffff:ffff:ffff:ffff:ffff	64	荷兰	未知	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1008::	2001:600:1008:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1009::	2001:600:1009:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:100a::	2001:600:100a:ffff:ffff:ffff:ffff:ffff	64	荷兰	未知	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:100b::	2001:600:1030:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1031::	2001:600:1031:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1032::	2001:600:1032:ffff:ffff:ffff:ffff:ffff	64	荷兰	未知	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1033::	2001:600:1ffe:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:1fff::	2001:600:1fff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:600:2000::	2001:600:ffff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	Verizon Nederland B.V.	Verizon Nederland B.V.	12702	NULL	NULL
+2001:601::	2001:607:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:608::	2001:608:0:ffff:ffff:ffff:ffff:ffff	64	德国	Hessen	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:1::	2001:608:9:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:a::	2001:608:a:ffff:ffff:ffff:ffff:ffff	64	德国	Baden-Württemberg	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:b::	2001:608:1ff:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:200::	2001:608:202:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:203::	2001:608:203:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:204::	2001:608:2ff:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:300::	2001:608:3ff:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:400::	2001:608:4ff:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:500::	2001:608:9ff:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:a00::	2001:608:a00:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:a01::	2001:608:a01:ffff:ffff:ffff:ffff:ffff	64	德国	未知	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:a02::	2001:608:aff:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:b00::	2001:608:bff:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:c00::	2001:608:cff:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:d00::	2001:608:dff:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:e00::	2001:608:eff:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:608:f00::	2001:608:ffff:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	SpaceNet AG	SpaceNet AG	5539	NULL	NULL
+2001:609::	2001:60f:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:610::	2001:610:0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1::	2001:610:1:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2::	2001:610:2:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:3::	2001:610:3:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:4::	2001:610:ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:100::	2001:610:11f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Flevoland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:120::	2001:610:120:ffff:ffff:ffff:ffff:ffff	64	荷兰	Flevoland	未知	未知	Stichting Nederlandse Wetenschappelijk Onderzoek Instituten	Stichting Nederlandse Wetenschappelijk Onderzoek Instituten	1104	NULL	NULL
+2001:610:121::	2001:610:15f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Flevoland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:160::	2001:610:160:ffff:ffff:ffff:ffff:ffff	64	荷兰	Flevoland	未知	未知	SURF B.V.	SURF B.V.	196613	NULL	NULL
+2001:610:161::	2001:610:17f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Flevoland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:180::	2001:610:180:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:181::	2001:610:187:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:188::	2001:610:188:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:189::	2001:610:18f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:190::	2001:610:190:ffff:ffff:ffff:ffff:ffff	64	荷兰	Limburg	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:191::	2001:610:197:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:198::	2001:610:198:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:199::	2001:610:1a7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1a8::	2001:610:1a8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1a9::	2001:610:1b7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1b8::	2001:610:1b8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1b9::	2001:610:1bf:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1c0::	2001:610:1c0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1c1::	2001:610:1c7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1c8::	2001:610:1c8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1c9::	2001:610:1cf:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d0::	2001:610:1d0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d1::	2001:610:1d7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d8::	2001:610:1da:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1db::	2001:610:1df:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1e0::	2001:610:1e0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1e1::	2001:610:1e7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1e8::	2001:610:1e8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1e9::	2001:610:1ef:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1f0::	2001:610:1f0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Groningen	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1f1::	2001:610:207:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:208::	2001:610:208:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:209::	2001:610:20f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:210::	2001:610:210:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:211::	2001:610:217:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:218::	2001:610:218:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:219::	2001:610:2bf:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2c0::	2001:610:2c0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2c1::	2001:610:2cf:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2d0::	2001:610:2d0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2d1::	2001:610:2d7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2d8::	2001:610:2d8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2d9::	2001:610:2df:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2e0::	2001:610:2e0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2e1::	2001:610:2ef:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2f0::	2001:610:2f0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zeeland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2f1::	2001:610:2f7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2f8::	2001:610:2f8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Limburg	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:2f9::	2001:610:2ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:300::	2001:610:300:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:301::	2001:610:307:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:308::	2001:610:308:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zeeland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:309::	2001:610:317:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:318::	2001:610:318:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:319::	2001:610:31f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:320::	2001:610:320:ffff:ffff:ffff:ffff:ffff	64	荷兰	Overijssel	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:321::	2001:610:327:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:328::	2001:610:328:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:329::	2001:610:32f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:330::	2001:610:330:ffff:ffff:ffff:ffff:ffff	64	荷兰	Limburg	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:331::	2001:610:337:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:338::	2001:610:338:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:339::	2001:610:33f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:340::	2001:610:37f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Fryslân	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:380::	2001:610:380:ffff:ffff:ffff:ffff:ffff	64	荷兰	Flevoland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:381::	2001:610:387:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:388::	2001:610:388:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:389::	2001:610:38f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:390::	2001:610:390:ffff:ffff:ffff:ffff:ffff	64	荷兰	Overijssel	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:391::	2001:610:39f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:3a0::	2001:610:3a0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:3a1::	2001:610:3a7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:3a8::	2001:610:3a8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:3a9::	2001:610:3b7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:3b8::	2001:610:3b8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:3b9::	2001:610:3ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:400::	2001:610:400:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:401::	2001:610:417:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:418::	2001:610:418:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:419::	2001:610:41f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:420::	2001:610:420:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:421::	2001:610:427:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:428::	2001:610:428:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:429::	2001:610:437:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:438::	2001:610:438:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:439::	2001:610:447:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:448::	2001:610:448:ffff:ffff:ffff:ffff:ffff	64	荷兰	Overijssel	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:449::	2001:610:44f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:450::	2001:610:450:7f:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:450:80::	2001:610:450:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:451::	2001:610:45f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:460::	2001:610:460:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:461::	2001:610:467:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:468::	2001:610:468:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:469::	2001:610:46f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:470::	2001:610:470:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:471::	2001:610:477:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:478::	2001:610:478:ffff:ffff:ffff:ffff:ffff	64	荷兰	Overijssel	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:479::	2001:610:47f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:480::	2001:610:500:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:501::	2001:610:51f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:520::	2001:610:520:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:521::	2001:610:527:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:528::	2001:610:528:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:529::	2001:610:52f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:530::	2001:610:530:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:531::	2001:610:53f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:540::	2001:610:540:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:541::	2001:610:547:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:548::	2001:610:548:ffff:ffff:ffff:ffff:ffff	64	荷兰	Limburg	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:549::	2001:610:54f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:550::	2001:610:550:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:551::	2001:610:567:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:568::	2001:610:568:ffff:ffff:ffff:ffff:ffff	64	荷兰	Drenthe	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:569::	2001:610:56f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:570::	2001:610:570:ffff:ffff:ffff:ffff:ffff	64	荷兰	Limburg	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:571::	2001:610:577:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:578::	2001:610:578:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:579::	2001:610:57f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:580::	2001:610:580:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:581::	2001:610:58f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:590::	2001:610:590:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:591::	2001:610:59f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5a0::	2001:610:5a0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5a1::	2001:610:5af:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5b0::	2001:610:5b0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5b1::	2001:610:5bf:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5c0::	2001:610:5c0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Limburg	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5c1::	2001:610:5cf:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5d0::	2001:610:5d0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5d1::	2001:610:5d7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5d8::	2001:610:5d8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5d9::	2001:610:5df:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5e0::	2001:610:5e0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5e1::	2001:610:5e7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5e8::	2001:610:5e8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5e9::	2001:610:5e9:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5ea::	2001:610:5ea:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5eb::	2001:610:5ef:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5f0::	2001:610:5f0:ffff:ffff:ffff:ffff:ffff	64	荷兰	Groningen	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5f1::	2001:610:5f7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5f8::	2001:610:5f8:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:5f9::	2001:610:5ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:600::	2001:610:766:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:767::	2001:610:767:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:768::	2001:610:769:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:76a::	2001:610:76a:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:76b::	2001:610:784:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:785::	2001:610:785:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:786::	2001:610:7ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:800::	2001:610:bff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:c00::	2001:610:dff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:e00::	2001:610:e00:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:e01::	2001:610:ec6:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:ec7::	2001:610:ec7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:ec8::	2001:610:eff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:f00::	2001:610:f01:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:f02::	2001:610:f02:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:f03::	2001:610:fc6:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:fc7::	2001:610:fc7:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:fc8::	2001:610:fff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1000::	2001:610:1023:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1024::	2001:610:1107:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1108::	2001:610:1108:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1109::	2001:610:110f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1110::	2001:610:1110:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1111::	2001:610:1117:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1118::	2001:610:1118:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Brabant	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1119::	2001:610:111f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1120::	2001:610:1120:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1121::	2001:610:1207:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1208::	2001:610:1208:ffff:ffff:ffff:ffff:ffff	64	荷兰	Limburg	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1209::	2001:610:12ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1300::	2001:610:1300:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1301::	2001:610:1407:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1408::	2001:610:1409:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:140a::	2001:610:140f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1410::	2001:610:1410:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1411::	2001:610:1417:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1418::	2001:610:1418:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1419::	2001:610:141f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1420::	2001:610:1420:ffff:ffff:ffff:ffff:ffff	64	荷兰	Drenthe	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1421::	2001:610:1907:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1908::	2001:610:1908:ffff:ffff:ffff:ffff:ffff	64	荷兰	Overijssel	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1909::	2001:610:1909:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:190a::	2001:610:190a:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:190b::	2001:610:190f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1910::	2001:610:1910:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1911::	2001:610:1a07:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1a08::	2001:610:1a08:ffff:ffff:ffff:ffff:ffff	64	荷兰	Groningen	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1a09::	2001:610:1aff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1b00::	2001:610:1b0f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1b10::	2001:610:1b10:ffff:ffff:ffff:ffff:ffff	64	荷兰	Overijssel	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1b11::	2001:610:1b11:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1b12::	2001:610:1b12:ffff:ffff:ffff:ffff:ffff	64	荷兰	Zuid-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1b13::	2001:610:1bff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Noord-Holland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1c00::	2001:610:1d07:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d08::	2001:610:1d08:ffff:ffff:ffff:ffff:ffff	64	荷兰	Gelderland	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d09::	2001:610:1d1f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d20::	2001:610:1d20:ffff:ffff:ffff:ffff:ffff	64	荷兰	Overijssel	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d21::	2001:610:1d2f:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d30::	2001:610:1d30:ffff:ffff:ffff:ffff:ffff	64	荷兰	Fryslân	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:1d31::	2001:610:8fff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:610:9000::	2001:610:90ff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Overijssel	未知	未知	SURF B.V.	SURF B.V.	1149	NULL	NULL
+2001:610:9100::	2001:617:ffff:ffff:ffff:ffff:ffff:ffff	64	荷兰	Utrecht	未知	未知	SURF B.V.	SURF B.V.	1103	NULL	NULL
+2001:618::	2001:618:ffff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Bern	未知	未知	Adfinis AG	Adfinis AG	15716	NULL	NULL
+2001:619::	2001:61f:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:620::	2001:620:17f:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:180::	2001:620:180:ffff:ffff:ffff:ffff:ffff	64	瑞士	Bern	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:181::	2001:620:1af:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:1b0::	2001:620:1b0:ffff:ffff:ffff:ffff:ffff	64	瑞士	Graubünden	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:1b1::	2001:620:1bf:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:1c0::	2001:620:1c0:ffff:ffff:ffff:ffff:ffff	64	瑞士	Sankt Gallen	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:1c1::	2001:620:1ff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:200::	2001:620:200:ffff:ffff:ffff:ffff:ffff	64	瑞士	Basel-Stadt	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:201::	2001:620:33f:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:340::	2001:620:340:ffff:ffff:ffff:ffff:ffff	64	瑞士	Solothurn	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:341::	2001:620:3ff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:400::	2001:620:40f:ffff:ffff:ffff:ffff:ffff	64	瑞士	Freiburg	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:410::	2001:620:41f:ffff:ffff:ffff:ffff:ffff	64	瑞士	Neuchâtel	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:420::	2001:620:420:ffff:ffff:ffff:ffff:ffff	64	瑞士	Bern	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:421::	2001:620:4ff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:500::	2001:620:500:ffff:ffff:ffff:ffff:ffff	64	瑞士	Bern	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:501::	2001:620:53f:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:540::	2001:620:540:ffff:ffff:ffff:ffff:ffff	64	瑞士	Vaud	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:541::	2001:620:5af:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:5b0::	2001:620:5b0:ffff:ffff:ffff:ffff:ffff	64	瑞士	Bern	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:5b1::	2001:620:5bf:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:5c0::	2001:620:5c0:ffff:ffff:ffff:ffff:ffff	64	瑞士	Jura	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:5c1::	2001:620:5cf:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:5d0::	2001:620:5d0:ffff:ffff:ffff:ffff:ffff	64	瑞士	Genève	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:5d1::	2001:620:5ff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:600::	2001:620:7ff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Vaud	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:800::	2001:620:bff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Ticino	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:c00::	2001:620:200f:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:2010::	2001:620:2010:ffff:ffff:ffff:ffff:ffff	64	瑞士	Wallis	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:2011::	2001:620:206f:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:2070::	2001:620:2070:ffff:ffff:ffff:ffff:ffff	64	瑞士	Bern	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:2071::	2001:620:20cf:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:20d0::	2001:620:20d0:ffff:ffff:ffff:ffff:ffff	64	瑞士	Bern	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:20d1::	2001:620:2fff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:3000::	2001:620:30ff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Luzern	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:3100::	2001:620:311f:ffff:ffff:ffff:ffff:ffff	64	瑞士	Graubünden	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:620:3120::	2001:627:ffff:ffff:ffff:ffff:ffff:ffff	64	瑞士	Zürich	未知	未知	SWITCH	SWITCH	559	NULL	NULL
+2001:628::	2001:628:404:a::f	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:404:a::10	2001:628:404:a::10	64	奥地利	Wien	未知	未知	WU (Wirtschaftsuniversitaet Wien) - Vienna University of Economics and Business	WU (Wirtschaftsuniversitaet Wien) - Vienna University of Economics and Business	1776	NULL	NULL
+2001:628:404:a::11	2001:628:404:14::f	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:404:14::10	2001:628:404:14::10	64	奥地利	Wien	未知	未知	WU (Wirtschaftsuniversitaet Wien) - Vienna University of Economics and Business	WU (Wirtschaftsuniversitaet Wien) - Vienna University of Economics and Business	1776	NULL	NULL
+2001:628:404:14::11	2001:628:404:250::f	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:404:250::10	2001:628:404:250::10	64	奥地利	Wien	未知	未知	WU (Wirtschaftsuniversitaet Wien) - Vienna University of Economics and Business	WU (Wirtschaftsuniversitaet Wien) - Vienna University of Economics and Business	1776	NULL	NULL
+2001:628:404:250::11	2001:628:11ff:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:1200::	2001:628:1201:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:1202::	2001:628:1400:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:1401::	2001:628:1401:ffff:ffff:ffff:ffff:ffff	64	奥地利	Tirol	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:1402::	2001:628:14fd:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:14fe::	2001:628:14fe:ffff:ffff:ffff:ffff:ffff	64	奥地利	Niederösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:14ff::	2001:628:15ff:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:1600::	2001:628:1600:ffff:ffff:ffff:ffff:ffff	64	奥地利	Steiermark	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:1601::	2001:628:200f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2010::	2001:628:2010:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2011::	2001:628:201f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2020::	2001:628:2020:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2021::	2001:628:203f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2040::	2001:628:2040:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2041::	2001:628:208f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2090::	2001:628:2090:ffff:ffff:ffff:ffff:ffff	64	奥地利	Steiermark	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2091::	2001:628:20cf:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:20d0::	2001:628:20d0:ffff:ffff:ffff:ffff:ffff	64	奥地利	Steiermark	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:20d1::	2001:628:20df:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:20e0::	2001:628:20e0:ffff:ffff:ffff:ffff:ffff	64	奥地利	Salzburg	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:20e1::	2001:628:20ff:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2100::	2001:628:21ff:ffff:ffff:ffff:ffff:ffff	64	奥地利	Niederösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2200::	2001:628:227f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2280::	2001:628:2280:ffff:ffff:ffff:ffff:ffff	64	奥地利	Salzburg	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2281::	2001:628:228f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2290::	2001:628:2290:ffff:ffff:ffff:ffff:ffff	64	奥地利	Burgenland	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2291::	2001:628:22bf:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:22c0::	2001:628:22c0:ffff:ffff:ffff:ffff:ffff	64	奥地利	Steiermark	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:22c1::	2001:628:22cf:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:22d0::	2001:628:22d0:ffff:ffff:ffff:ffff:ffff	64	奥地利	Tirol	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:22d1::	2001:628:230f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2310::	2001:628:2310:ffff:ffff:ffff:ffff:ffff	64	奥地利	Steiermark	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2311::	2001:628:23ff:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2400::	2001:628:2400:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2401::	2001:628:240f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2410::	2001:628:2410:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2411::	2001:628:241f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2420::	2001:628:2420:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2421::	2001:628:242f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2430::	2001:628:2430:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2431::	2001:628:243f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2440::	2001:628:2440:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2441::	2001:628:244f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2450::	2001:628:2450:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2451::	2001:628:245f:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2460::	2001:628:2460:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:2461::	2001:628:44ff:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:4500::	2001:628:45ff:ffff:ffff:ffff:ffff:ffff	64	奥地利	Oberösterreich	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:628:4600::	2001:62f:ffff:ffff:ffff:ffff:ffff:ffff	64	奥地利	Wien	未知	未知	ACONET	ACONET	1853	NULL	NULL
+2001:630::	2001:630:111:ffff:ffff:ffff:ffff:ffff	64	英国	England	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:630:112::	2001:630:112:ffff:ffff:ffff:ffff:ffff	64	英国	Wales	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:630:113::	2001:630:13f:ffff:ffff:ffff:ffff:ffff	64	英国	England	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:630:140::	2001:630:140:ffff:ffff:ffff:ffff:ffff	64	英国	Scotland	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:630:141::	2001:630:141:ffff:ffff:ffff:ffff:ffff	64	英国	Northern Ireland	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:630:142::	2001:630:144:ffff:ffff:ffff:ffff:ffff	64	英国	Scotland	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:630:145::	2001:630:27f:ffff:ffff:ffff:ffff:ffff	64	英国	England	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:630:280::	2001:630:2ff:ffff:ffff:ffff:ffff:ffff	64	英国	Wales	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:630:300::	2001:630:ffff:ffff:ffff:ffff:ffff:ffff	64	英国	England	未知	未知	Jisc Services Limited	Jisc Services Limited	786	NULL	NULL
+2001:631::	2001:637:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:638::	2001:638:ff:ffff:ffff:ffff:ffff:ffff	64	德国	Baden-Württemberg	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:100::	2001:638:1ff:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:200::	2001:638:30c:ffff:ffff:ffff:ffff:ffff	64	德国	Rheinland-Pfalz	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:30d::	2001:638:30d:ffff:ffff:ffff:ffff:ffff	64	德国	Rheinland-Pfalz	未知	未知	European Space Agency (ESA)	European Space Agency (ESA)	8519	NULL	NULL
+2001:638:30e::	2001:638:3ff:ffff:ffff:ffff:ffff:ffff	64	德国	Rheinland-Pfalz	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:400::	2001:638:404:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:405::	2001:638:407:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:408::	2001:638:408:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:409::	2001:638:409:ffff:ffff:ffff:ffff:ffff	64	德国	Baden-Württemberg	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:40a::	2001:638:411:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:412::	2001:638:4ff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:500::	2001:638:507:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:508::	2001:638:508:ffff:ffff:ffff:ffff:ffff	64	德国	Niedersachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:509::	2001:638:510:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:511::	2001:638:511:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:512::	2001:638:512:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:513::	2001:638:513:ffff:ffff:ffff:ffff:ffff	64	德国	Niedersachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:514::	2001:638:514:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:515::	2001:638:51a:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:51b::	2001:638:51b:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:51c::	2001:638:51f:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:520::	2001:638:5ff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:600::	2001:638:607:ffff:ffff:ffff:ffff:ffff	64	德国	Niedersachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:608::	2001:638:608:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:609::	2001:638:60b:ffff:ffff:ffff:ffff:ffff	64	德国	Niedersachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:60c::	2001:638:60c:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:60d::	2001:638:60d:ffff:ffff:ffff:ffff:ffff	64	德国	Niedersachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:60e::	2001:638:60e:ffff:ffff:ffff:ffff:ffff	64	德国	Hessen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:60f::	2001:638:61f:ffff:ffff:ffff:ffff:ffff	64	德国	Niedersachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:620::	2001:638:6ff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:700::	2001:638:700:10de:ffff:ffff:ffff:ffff	64	德国	Bremen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:700:10df::	2001:638:700:10df:ffff:ffff:ffff:ffff	64	德国	Hamburg	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:700:10e0::	2001:638:7ff:ffff:ffff:ffff:ffff:ffff	64	德国	Bremen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:800::	2001:638:801:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:802::	2001:638:802:ffff:ffff:ffff:ffff:ffff	64	德国	Hessen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:803::	2001:638:803:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:804::	2001:638:805:ffff:ffff:ffff:ffff:ffff	64	德国	Mecklenburg-Vorpommern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:806::	2001:638:807:ffff:ffff:ffff:ffff:ffff	64	德国	Brandenburg	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:808::	2001:638:808:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:809::	2001:638:80a:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:80b::	2001:638:80b:ffff:ffff:ffff:ffff:ffff	64	德国	Mecklenburg-Vorpommern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:80c::	2001:638:80e:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:80f::	2001:638:80f:ffff:ffff:ffff:ffff:ffff	64	德国	Brandenburg	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:810::	2001:638:81f:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:820::	2001:638:83f:ffff:ffff:ffff:ffff:ffff	64	德国	Mecklenburg-Vorpommern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:840::	2001:638:8ff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:900::	2001:638:907:ffff:ffff:ffff:ffff:ffff	64	德国	Thüringen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:908::	2001:638:91f:ffff:ffff:ffff:ffff:ffff	64	德国	Sachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:920::	2001:638:920:ffff:ffff:ffff:ffff:ffff	64	德国	Sachsen-Anhalt	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:921::	2001:638:923:ffff:ffff:ffff:ffff:ffff	64	德国	Thüringen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:924::	2001:638:924:ffff:ffff:ffff:ffff:ffff	64	德国	Sachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:925::	2001:638:926:ffff:ffff:ffff:ffff:ffff	64	德国	Thüringen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:927::	2001:638:927:ffff:ffff:ffff:ffff:ffff	64	德国	Sachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:928::	2001:638:928:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:929::	2001:638:929:ffff:ffff:ffff:ffff:ffff	64	德国	Sachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:92a::	2001:638:9ff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:a00::	2001:638:a07:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:a08::	2001:638:a08:ffff:ffff:ffff:ffff:ffff	64	德国	Hessen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:a09::	2001:638:a0a:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:a0b::	2001:638:a0b:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:a0c::	2001:638:a0d:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:a0e::	2001:638:bf4:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:bf5::	2001:638:bf5:ffff:ffff:ffff:ffff:ffff	64	德国	Niedersachsen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:bf6::	2001:638:13ff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:1400::	2001:638:17ff:ffff:ffff:ffff:ffff:ffff	64	德国	Thüringen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:1800::	2001:638:1911:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:1912::	2001:638:1912:ffff:ffff:ffff:ffff:ffff	64	德国	Hessen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:1913::	2001:638:9fff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:a000::	2001:638:a007:ffff:ffff:ffff:ffff:ffff	64	德国	Bayern	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:a008::	2001:638:ba5d:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:ba5e::	2001:638:ba5e:ffff:ffff:ffff:ffff:ffff	64	德国	Hessen	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:ba5f::	2001:638:dfcd:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:dfce::	2001:638:dfce:ffff:ffff:ffff:ffff:ffff	64	德国	Baden-Württemberg	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:638:dfcf::	2001:638:ffff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	Verein zur Foerderung eines Deutschen Forschungsnetzes e.V.	680	NULL	NULL
+2001:639::	2001:63e:ffff:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	未知	未知	0	NULL	NULL
+2001:63f::	2001:63f:ffff:ffff:ffff:ffff:ffff:ffff	64	美国	South Carolina	未知	未知	未知	未知	0	NULL	NULL
+2001:640::	2001:640:ffff:ffff:ffff:ffff:ffff:ffff	64	俄罗斯联邦	Moskva	未知	未知	OOO FREEnet Group	OOO FREEnet Group	2895	NULL	NULL
+2001:641::	2001:647:ffff:ffff:ffff:ffff:ffff:ffff	64	未知	未知	未知	未知	未知	未知	0	NULL	NULL
+2001:648::	2001:648:1fff:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2000::	2001:648:2000:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Technical University of Athens	National Technical University of Athens	3323	NULL	NULL
+2001:648:2001::	2001:648:200f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2010::	2001:648:2010:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	University of Athens	University of Athens	8643	NULL	NULL
+2001:648:2011::	2001:648:2011:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	NATIONAL OBSERVATORY OF ATHENS	NATIONAL OBSERVATORY OF ATHENS	15690	NULL	NULL
+2001:648:2012::	2001:648:201f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2020::	2001:648:2020:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	Athens University of Economics and Business	Athens University of Economics and Business	8611	NULL	NULL
+2001:648:2021::	2001:648:203f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2040::	2001:648:204f:ffff:ffff:ffff:ffff:ffff	64	希腊	Nótio Aigaío	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2050::	2001:648:2050:ffff:ffff:ffff:ffff:ffff	64	希腊	Nótio Aigaío	未知	未知	University of the Aegean	University of the Aegean	8617	NULL	NULL
+2001:648:2051::	2001:648:207f:ffff:ffff:ffff:ffff:ffff	64	希腊	Nótio Aigaío	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2080::	2001:648:20ef:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:20f0::	2001:648:20f0:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	199399	NULL	NULL
+2001:648:20f1::	2001:648:211f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2120::	2001:648:2120:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Center of Scientific Research DEMOKRITOS	National Center of Scientific Research DEMOKRITOS	2546	NULL	NULL
+2001:648:2121::	2001:648:218f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2190::	2001:648:2190:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2191::	2001:648:221f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2220::	2001:648:2220:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2221::	2001:648:222f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2230::	2001:648:2230:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2231::	2001:648:227f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2280::	2001:648:2280:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2281::	2001:648:22af:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:22b0::	2001:648:22b0:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	Center for Research and Technology Hellas (CERTH)	Center for Research and Technology Hellas (CERTH)	47616	NULL	NULL
+2001:648:22b1::	2001:648:22ff:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2300::	2001:648:2301:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	Greek High-School Internet Network	Greek High-School Internet Network	8248	NULL	NULL
+2001:648:2302::	2001:648:2302:ffff:ffff:ffff:ffff:ffff	64	希腊	Dytikí Elláda	未知	未知	Greek High-School Internet Network	Greek High-School Internet Network	8248	NULL	NULL
+2001:648:2303::	2001:648:232f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2330::	2001:648:2330:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	UNIWA	UNIWA	9069	NULL	NULL
+2001:648:2331::	2001:648:239f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:23a0::	2001:648:23a0:ffff:ffff:ffff:ffff:ffff	64	希腊	Thessalía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:23a1::	2001:648:23ef:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:23f0::	2001:648:23f0:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:23f1::	2001:648:241f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2420::	2001:648:2421:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	Hellenic National Meteorological Service	Hellenic National Meteorological Service	31563	NULL	NULL
+2001:648:2422::	2001:648:243f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2440::	2001:648:2440:ffff:ffff:ffff:ffff:ffff	64	希腊	Kríti	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2441::	2001:648:244f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2450::	2001:648:2450:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2451::	2001:648:247f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2480::	2001:648:2480:ffff:ffff:ffff:ffff:ffff	64	希腊	Thessalía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2481::	2001:648:249f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:24a0::	2001:648:24a0:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	University of Piraeus	University of Piraeus	12402	NULL	NULL
+2001:648:24a1::	2001:648:24af:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:24b0::	2001:648:24b0:ffff:ffff:ffff:ffff:ffff	64	希腊	Pelopónnisos	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:24b1::	2001:648:251f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2520::	2001:648:2520:ffff:ffff:ffff:ffff:ffff	64	希腊	Ípeiros	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2521::	2001:648:252f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2530::	2001:648:2530:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	Alexander Technological Educational Institute of Thessaloniki	Alexander Technological Educational Institute of Thessaloniki	5489	NULL	NULL
+2001:648:2531::	2001:648:253f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2540::	2001:648:2540:ffff:ffff:ffff:ffff:ffff	64	希腊	Anatolikí Makedonía kai Thráki	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2541::	2001:648:254f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2550::	2001:648:2550:ffff:ffff:ffff:ffff:ffff	64	希腊	Pelopónnisos	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2551::	2001:648:256f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2570::	2001:648:2570:ffff:ffff:ffff:ffff:ffff	64	希腊	Stereá Elláda	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2571::	2001:648:25bf:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:25c0::	2001:648:25c0:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:25c1::	2001:648:25df:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:25e0::	2001:648:25e0:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	Hellenic Telecommunications and Post Commision	Hellenic Telecommunications and Post Commision	203348	NULL	NULL
+2001:648:25e1::	2001:648:275f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2760::	2001:648:2760:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2761::	2001:648:277f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2780::	2001:648:2780:ffff:ffff:ffff:ffff:ffff	64	希腊	Pelopónnisos	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2781::	2001:648:279f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:27a0::	2001:648:27a0:ffff:ffff:ffff:ffff:ffff	64	希腊	Anatolikí Makedonía kai Thráki	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:27a1::	2001:648:27ff:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2800::	2001:648:2800:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	Aristotle University of Thessaloniki	Aristotle University of Thessaloniki	5470	NULL	NULL
+2001:648:2801::	2001:648:280f:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2810::	2001:648:2810:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	University of Macedonia, Economic and Social Sciences	University of Macedonia, Economic and Social Sciences	12364	NULL	NULL
+2001:648:2811::	2001:648:295f:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2960::	2001:648:2960:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	Technical University of Crete	Technical University of Crete	8278	NULL	NULL
+2001:648:2961::	2001:648:2bff:ffff:ffff:ffff:ffff:ffff	64	希腊	Kentrikí Makedonía	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2c00::	2001:648:2c00:ffff:ffff:ffff:ffff:ffff	64	希腊	Kríti	未知	未知	University of Crete	University of Crete	6867	NULL	NULL
+2001:648:2c01::	2001:648:2c0f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2c10::	2001:648:2c10:ffff:ffff:ffff:ffff:ffff	64	希腊	Kríti	未知	未知	Technological Educational Institute of Crete	Technological Educational Institute of Crete	8762	NULL	NULL
+2001:648:2c11::	2001:648:2c2f:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2c30::	2001:648:2c30:ffff:ffff:ffff:ffff:ffff	64	希腊	Kríti	未知	未知	未知	未知	8522	NULL	NULL
+2001:648:2c31::	2001:648:2cee:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2cef::	2001:648:2cef:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	199399	NULL	NULL
+2001:648:2cf0::	2001:648:2dff:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2e00::	2001:648:2e00:ffff:ffff:ffff:ffff:ffff	64	希腊	Anatolikí Makedonía kai Thráki	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2e01::	2001:648:2e01:ffff:ffff:ffff:ffff:ffff	64	希腊	Anatolikí Makedonía kai Thráki	未知	未知	University Of Ioannina	University Of Ioannina	8581	NULL	NULL
+2001:648:2e02::	2001:648:2e7f:ffff:ffff:ffff:ffff:ffff	64	希腊	Anatolikí Makedonía kai Thráki	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:2e80::	2001:648:2e80:ffff:ffff:ffff:ffff:ffff	64	希腊	Anatolikí Makedonía kai Thráki	未知	未知	Democritus University of Thrace	Democritus University of Thrace	8253	NULL	NULL
+2001:648:2e81::	2001:648:2fff:ffff:ffff:ffff:ffff:ffff	64	希腊	Anatolikí Makedonía kai Thráki	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:3000::	2001:648:309e:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:309f::	2001:648:309f:ffff:ffff:ffff:ffff:ffff	64	希腊	Kríti	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:30a0::	2001:648:33ff:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:648:3400::	2001:648:34ff:ffff:ffff:ffff:ffff:ffff	64	希腊	Dytikí Elláda	未知	未知	Greek High-School Internet Network	Greek High-School Internet Network	8248	NULL	NULL
+2001:648:3500::	2001:64f:ffff:ffff:ffff:ffff:ffff:ffff	64	希腊	Attikí	未知	未知	National Infrastructures for Research and Technology S.A.	National Infrastructures for Research and Technology S.A.	5408	NULL	NULL
+2001:650::	2001:650:0:ffff:ffff:ffff:ffff:ffff	64	德国	Thüringen	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:1::	2001:650:df:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:e0::	2001:650:e3:ffff:ffff:ffff:ffff:ffff	64	德国	未知	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:e4::	2001:650:9fff:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:a000::	2001:650:a3ff:ffff:ffff:ffff:ffff:ffff	64	德国	Thüringen	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:a400::	2001:650:cc00:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:cc01::	2001:650:cc01:ffff:ffff:ffff:ffff:ffff	64	德国	Berlin	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:cc02::	2001:650:cc02:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Deutsche Telekom AG	Deutsche Telekom AG	3320	NULL	NULL
+2001:650:cc03::	2001:650:cc04:ffff:ffff:ffff:ffff:ffff	64	德国	Sachsen-Anhalt	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:cc05::	2001:650:cc05:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	H&R InfoTech GmbH	H&R InfoTech GmbH	213087	NULL	NULL
+2001:650:cc06::	2001:650:dbff:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:dc00::	2001:650:dfff:ffff:ffff:ffff:ffff:ffff	64	德国	Thüringen	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:650:e000::	2001:657:ffff:ffff:ffff:ffff:ffff:ffff	64	德国	Nordrhein-Westfalen	未知	未知	Marc Pauls (AlphaCron Datensysteme)	Marc Pauls (AlphaCron Datensysteme)	28748	NULL	NULL
+2001:658::	2001:65f:ffff:ffff:ffff:ffff:ffff:ffff	64	德国	Baden-Württemberg	未知	未知	Plusnet GmbH	Plusnet GmbH	20676	NULL	NULL
+2001:660::	2001:660:2000:ffff:ffff:ffff:ffff:ffff	64	法国	未知	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2001::	2001:660:2001:ffff:ffff:ffff:ffff:ffff	64	法国	Normandie	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2002::	2001:660:2002:ffff:ffff:ffff:ffff:ffff	64	法国	Occitanie	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2003::	2001:660:2003:ffff:ffff:ffff:ffff:ffff	64	法国	Hauts-de-France	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2004::	2001:660:2006:ffff:ffff:ffff:ffff:ffff	64	法国	未知	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2007::	2001:660:2007:ffff:ffff:ffff:ffff:ffff	64	法国	Hauts-de-France	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2008::	2001:660:2014:ffff:ffff:ffff:ffff:ffff	64	法国	未知	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2015::	2001:660:2015:ffff:ffff:ffff:ffff:ffff	64	法国	Occitanie	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2016::	2001:660:23ff:ffff:ffff:ffff:ffff:ffff	64	法国	未知	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2400::	2001:660:27ff:ffff:ffff:ffff:ffff:ffff	64	法国	Grand-Est	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:2800::	2001:660:2fff:ffff:ffff:ffff:ffff:ffff	64	法国	未知	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:3000::	2001:660:301f:ffff:ffff:ffff:ffff:ffff	64	法国	Île-de-France	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:3020::	2001:660:3020:ffff:ffff:ffff:ffff:ffff	64	法国	Île-de-France	未知	未知	Renater	Renater	2072	NULL	NULL
+2001:660:3021::	2001:660:3202:ffff:ffff:ffff:ffff:ffff	64	法国	Île-de-France	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:3203::	2001:660:3203:ffff:ffff:ffff:ffff:ffff	64	法国	Île-de-France	未知	未知	Renater	Renater	2094	NULL	NULL
+2001:660:3204::	2001:660:33ff:ffff:ffff:ffff:ffff:ffff	64	法国	Île-de-France	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:3400::	2001:660:40ff:ffff:ffff:ffff:ffff:ffff	64	法国	未知	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:4100::	2001:660:4102:ffff:ffff:ffff:ffff:ffff	64	法国	Bourgogne-Franche-Comté	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:4103::	2001:660:41ff:ffff:ffff:ffff:ffff:ffff	64	法国	未知	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:4200::	2001:660:4202:ffff:ffff:ffff:ffff:ffff	64	法国	Hauts-de-France	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:4203::	2001:660:4206:ffff:ffff:ffff:ffff:ffff	64	法国	未知	未知	未知	Renater	Renater	2200	NULL	NULL
+2001:660:4207::	2001:660:4207:ffff:ffff:ffff:ffff:ffff	64	法国	Hauts-de-France	未知	未知	Renater	Renater	2200	NULL	NULL
