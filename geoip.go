@@ -22,7 +22,7 @@ type Meta = core.Meta
 // Option output core.Option。
 type Option = core.Option
 
-// Init init store and load data
+// Init init core.Store and load data
 func Init(opt Option) error {
 	mu.Lock()
 	defer mu.Unlock()
