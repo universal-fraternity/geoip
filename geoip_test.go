@@ -3,7 +3,7 @@ package geoip
 import "testing"
 
 func TestSearch(t *testing.T) {
-	if err := Load(Option{
+	if err := Init(Option{
 		Files: []string{
 			"store/testdata/ipv6.txt",
 			"store/testdata/ipv4.txt",

@@ -5,29 +5,29 @@ import (
 	"net"
 	"sync"
 
-	"github.com/universal-fraternity/geoip/store"
+	"github.com/universal-fraternity/geoip/core"
 )
 
 var (
-	defaultStore *store.Store
+	defaultStore *core.Store
 	mu           sync.RWMutex
 )
 
-// Store output store.Store.
-type Store = store.Store
+// Store output core.Store.
+type Store = core.Store
 
-// Meta output store.Meta。
-type Meta = store.Meta
+// Meta output core.Meta。
+type Meta = core.Meta
 
-// Option output store.Option。
-type Option = store.Option
+// Option output core.Option。
+type Option = core.Option
 
-// Load load data
-func Load(opt Option) error {
+// Init init store and load data
+func Init(opt Option) error {
 	mu.Lock()
 	defer mu.Unlock()
 	if defaultStore == nil {
-		defaultStore = store.NewStore()
+		defaultStore = core.NewStore()
 	}
 	return defaultStore.LoadData(opt)
 }
